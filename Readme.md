@@ -11,8 +11,8 @@ $ ./go-docker
 ```
 
 ```bash
-$ curl http://localhost:8080?name=Rajeev
-Hello, Rajeev
+$ curl http://localhost:8080?name=Kubernetes
+Hello, Kubernetes
 ```
 
 ## Building and running the docker image
