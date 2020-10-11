@@ -14,7 +14,3 @@ $ ./go-docker
 $ curl http://localhost:8080?name=Kubernetes
 Hello, Kubernetes
 ```
-
-## Building and running the docker image
-
-Read the tutorial: [Building Docker Containers for Go Applications](https://www.callicoder.com/docker-golang-image-container-example/) 
