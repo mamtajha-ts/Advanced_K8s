@@ -25,5 +25,5 @@ jobs:
           context: .
           file: ./Dockerfile
           platforms: linux/amd64,linux/arm64
-          push: true
-          tags: mamtaj/go-docker:latest
+          repository: mamtaj/go-docker-multistage
+          tags: mamtaj/go-docker-multistage:latest
